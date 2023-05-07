@@ -1,0 +1,57 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+/Library/
+/UserSettings/
+# ============= #
+# IDE generated #
+# ============= #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+.consulo
+.vscode
+.vs
+.idea
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta
+# ====== #
+# Custom #
+# ====== #
+logs/
+
+Assets/TEMP/
+Assets/TEMP.meta
+Assets/StreamingAssets/build_info.txt
+Assets/StreamingAssets/build_info.txt.meta
+Assets/Plugins/Editor.meta
+Assets/Plugins/Editor/VSCode.cs
+Assets/Plugins/Editor/VSCode.cs.meta
+Assets/Plugins/Editor/JetBrains
+Assets/Plugins/Editor/JetBrains.meta
+Assets/Editor/Plugins/Consulo/
+Assets/Editor/Plugins/Consulo.meta
+Assets/Editor/Plugins.meta
+Assets/Test/
+
+# android logcat is intentionally excluded from project
+/Packages/com.unity.mobile.android-logcat*
+/ProjectSettings/AndroidLogcatSettings.asset
