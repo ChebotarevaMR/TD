@@ -55,3 +55,4 @@ Assets/Test/
 # android logcat is intentionally excluded from project
 /Packages/com.unity.mobile.android-logcat*
 /ProjectSettings/AndroidLogcatSettings.asset
+
