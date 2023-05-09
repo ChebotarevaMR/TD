@@ -190,4 +190,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   generationField: {fileID: 7789513834902049714}
   width: 10
-  height: 0
+  height: 15
+  seed: 3331235
