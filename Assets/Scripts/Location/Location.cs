@@ -8,10 +8,11 @@ namespace Location {
 
         [SerializeField] private int width;
         [SerializeField] private int height;
+        [SerializeField] private int seed;
 
         public void GenerateField(){
             Debug.Log($"Generate field begin");
-            TextureGenerator.Update(generationField.sprite.texture);
+            TextureGenerator.Update(generationField.sprite.texture, width, height, seed);
             Debug.Log($"Generate field end");
         }
     }
